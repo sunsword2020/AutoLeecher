@@ -1,1 +1,1 @@
-web: python3 -m apdbot
+worker: python3 -m apdbot
